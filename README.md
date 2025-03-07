@@ -1,5 +1,4 @@
 WEB DEVELOPMENT CLIENT TASK 1
-This repository contains solutions for basic JavaScript coding tasks:
 
 * Find area of a rectangle
 * Find diameter, circumference, and area of a circle
